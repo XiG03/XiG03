@@ -76,9 +76,10 @@ C#, ASP.NET Core 8 (MVC, Web API), Entity Framework Core, SQL Server, ASP.NET Co
 1. Analyzed real-world spa business workflows by benchmarking against industry platforms to define system requirements.
 1. Designed and developed core system modules:
 
-  * **Manager:** Service management, booking management, dashboard analytics, role-based authorization
-  * **Customer:** Booking workflow, appointment management, service and combo browsing
-1. Implemented authentication and authorization using ASP.NET Core Identity with role-based access control (RBAC).
+   * **Manager:** Service management, booking management, dashboard analytics, role-based authorization
+   
+   * **Customer:** Booking workflow, appointment management, service and combo browsing
+4. Implemented authentication and authorization using ASP.NET Core Identity with role-based access control (RBAC).
 1. Built an **audit logging system** to track 100% of database changes for monitoring and traceability.
 1.  Designed a **multi-step booking workflow** using session state to improve user experience and reduce booking errors.
 1.  Optimized database queries for search and booking operations, improving system performance.
