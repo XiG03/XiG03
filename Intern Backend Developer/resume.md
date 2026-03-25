@@ -25,6 +25,8 @@ Final-year Information Technology student with experience building ASP.NET Core 
 University of Economics and Finance – Ho Chi Minh City
 *Sept 2022 - Now*
 
+GPA: 3.3/4
+
 
 ## Projects
 
