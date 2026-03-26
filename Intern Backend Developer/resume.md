@@ -14,10 +14,11 @@ Final-year Information Technology student with experience building ASP.NET Core 
 
 - **Programming Languages:** C#, Java, JavaScript, PHP
 - **Frameworks:** .NET Core, ASP.NET Core (MVC, Web API)
-- **Databases:** SQL Server, MySQL, PostgreSQL
+- **Databases:** SQL Server, MySQL, PostgreSQL, EF Core
 - **DevOps:** Docker, Docker Compose, Jenkins, Azure DevOps
 - **Tools:** Git, Jira, Trello, Postman, GitHub Actions, GitLab CI/CD
 - **Methodologies:** Agile, Scrum, CI/CD 
+- **Others:** SOLID Principle, Clean Architecture, Microservice
 
 ## Education
 
