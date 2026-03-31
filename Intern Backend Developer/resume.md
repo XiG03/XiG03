@@ -20,14 +20,6 @@ Final-year Information Technology student with experience building ASP.NET Core 
 - **Methodologies:** Agile, Scrum, CI/CD 
 - **Others:** SOLID Principle, Clean Architecture, Microservice
 
-## Education
-
-**Bachelor of Science in Information Technology**
-University of Economics and Finance – Ho Chi Minh City
-*Sept 2022 - Now*
-
-GPA: 3.3/4
-
 
 ## Projects
 
@@ -40,11 +32,7 @@ GPA: 3.3/4
 
 **Live API:** https://finalproject-gwa6h5c5gedjdufa.japanwest-01.azurewebsites.net
 
-
-
-### **Technologies**
-
-C#, ASP.NET Core 8 (Web API), Entity Framework Core, SQL Server, JWT, ASP.NET Core Identity, SignalR, Docker, GitHub Actions, Azure Web App
+**TechStack:** ASP.NET Core 8 (Web API), Entity Framework Core, SQL Server, JWT, ASP.NET Core Identity, SignalR, Docker, GitHub Actions, Azure Web App
 
 
 
@@ -67,10 +55,7 @@ C#, ASP.NET Core 8 (Web API), Entity Framework Core, SQL Server, JWT, ASP.NET Co
 
 **Live Demo:** https://spabookingwebsite-d3bnc9d8f6b4bab9.japanwest-01.azurewebsites.net
 
-
-### **Technologies**
-
-C#, ASP.NET Core 8 (MVC, Web API), Entity Framework Core, SQL Server, ASP.NET Core Identity, Docker, Azure
+**TechStack:** ASP.NET Core 8 (MVC, Web API), Entity Framework Core, SQL Server, ASP.NET Core Identity, Docker, Azure
 
 
 ### **Responsibilities & Achievements**
@@ -87,6 +72,14 @@ C#, ASP.NET Core 8 (MVC, Web API), Entity Framework Core, SQL Server, ASP.NET Co
 1.  Designed a **multi-step booking workflow** using session state to improve user experience and reduce booking errors.
 1.  Optimized database queries for search and booking operations, improving system performance.
 1. Containerized the application using Docker and deployed to Microsoft Azure.
+
+## Education
+
+**Bachelor of Science in Information Technology**
+University of Economics and Finance – Ho Chi Minh City
+*Sept 2022 - Now*
+
+GPA: 3.3/4
 
 
 
