@@ -13,12 +13,13 @@ Final-year Information Technology student with experience building ASP.NET Core 
 ## Skills
 
 - **Programming Languages:** C#, Java, JavaScript, PHP
-- **Frameworks:** .NET Core, ASP.NET Core (MVC, Web API)
-- **Databases:** SQL Server, MySQL, PostgreSQL, EF Core
-- **DevOps:** Docker, Docker Compose, Jenkins, Azure DevOps
-- **Tools:** Git, Jira, Trello, Postman, GitHub Actions, GitLab CI/CD
-- **Methodologies:** Agile, Scrum, CI/CD 
-- **Others:** SOLID Principle, Clean Architecture, Microservice
+- **Frameworks:** .NET Framework/Core, ASP.NET Core (MVC, Web API)
+- **Databases:** SQL Server (Advanced Performance Tuning, Indexing, Stored Procedures)
+- **System & Architecture:** Microservices Principles, Clean Architecture, System Design
+- **DevOps:** Docker, Azure DevOps
+- **CI/CD & Automation:** Jenkins, GitLab, GitHub Action.
+- **Tools:** Postman
+- **Methodologies:** Agile/Scrum, CI/CD, API Testing
 
 
 ## Projects
@@ -59,8 +60,7 @@ Final-year Information Technology student with experience building ASP.NET Core 
 
 
 ### **Responsibilities & Achievements**
-
-1.  Led a team of 3 developers, managed tasks using Trello, and ensured on-time delivery with an average of **1 feature/member/day**.
+1. Led a team of 3 developers, managed task using Trello to deliver high-quality MVC systems in C#/.NET.
 1. Analyzed real-world spa business workflows by benchmarking against industry platforms to define system requirements.
 1. Designed and developed core system modules:
 
@@ -75,15 +75,14 @@ Final-year Information Technology student with experience building ASP.NET Core 
 
 ## Education
 
-**Bachelor of Science in Information Technology**
-University of Economics and Finance – Ho Chi Minh City
+**Bachelor of Science in Information Technology** - University of Economics and Finance – Ho Chi Minh City
 *Sept 2022 - Now*
 
 GPA: 3.3/4
 
-
+Capstone Project: Spa Booking & Management System
 
 ## Languages
 
-1. **English** 
+1. **English:** Professional working proficiency
 1. **Japanese** 
