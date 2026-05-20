@@ -24,7 +24,7 @@ Final-year Information Technology student with experience building ASP.NET Core 
 
 ## Projects
 
-### EduSubmit - Learning Management System *(Feb 2026 – Present)*
+### TPS - Learning Management System *(Apr 2026 – Present)*
 
 **Role:** FullStack Developer
 **Team Size:** 2
@@ -33,7 +33,7 @@ Final-year Information Technology student with experience building ASP.NET Core 
 
 **Live API:** https://finalproject-gwa6h5c5gedjdufa.japanwest-01.azurewebsites.net
 
-**TechStack:** ASP.NET Core 8 (Web API), Entity Framework Core, SQL Server, JWT, ASP.NET Core Identity, SignalR, Docker, GitHub Actions, Azure Web App
+**TechStack:** ASP.NET Core 8 (Web API), ADO.NET, SQL Server, JWT, ASP.NET Core Identity, Docker, GitHub Actions, Azure Web App
 
 
 
@@ -41,7 +41,7 @@ Final-year Information Technology student with experience building ASP.NET Core 
 
 1.  Developed and maintained RESTful APIs using ASP.NET Core, applying SOLID principles to improve code maintainability and scalability.
 2.  Implemented authentication and authorization using JWT and ASP.NET Core Identity with role-based access control (RBAC).
-3.  Designed and implemented core system modules for Teacher, Student, and Parent roles.
+3.  Designed and implemented core system modules for Teacher, Student, and Admin roles.
 4.  Integrated an AI-based grading assistant via external API to analyze student submissions and recommend scores.
 5.  Built and maintained CI/CD pipelines using GitHub Actions, including automated build, testing, Docker image creation, and deployment to Azure Web App.
 6.  Containerized the application using Docker, ensuring consistent environments across development and production.
@@ -68,7 +68,7 @@ Final-year Information Technology student with experience building ASP.NET Core 
    
    * **Customer:** Booking workflow, appointment management, service and combo browsing
 4. Implemented authentication and authorization using ASP.NET Core Identity with role-based access control (RBAC).
-1. Built an **audit logging system** to track 100% of database changes for monitoring and traceability.
+1. Built an **audit logging system** to track database changes for monitoring and traceability.
 1.  Designed a **multi-step booking workflow** using session state to improve user experience and reduce booking errors.
 1.  Optimized database queries for search and booking operations, improving system performance.
 1. Containerized the application using Docker and deployed to Microsoft Azure.
