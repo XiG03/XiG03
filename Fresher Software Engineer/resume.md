@@ -62,7 +62,7 @@ Final-year Information Technology student with ~6 months of experience developin
 ## Education
 
 **Bachelor of Science in Information Technology** - University of Economics and Finance – Ho Chi Minh City
-*Sept 2022 - Now*
+*Sept 2022 - 2026*
 
 GPA: 3.3/4
 
