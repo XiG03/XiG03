@@ -35,14 +35,14 @@ Final-year Information Technology student with ~6 months of experience developin
 ## Projects
 
 ### [TPS - Learning Management System](https://github.com/XiG03/TPS_FullStack) 
-**Live API:** https://finalproject-gwa6h5c5gedjdufa.japanwest-01.azurewebsites.net *(Apr 2026 – Present)*
+**Live Demo:** tps-dyh9fbfug0ehdzf9.japanwest-01.azurewebsites.net *(Apr 2026 – Present)*
 
 **TechStack:** ASP.NET Core 8 (Web API), ADO.NET, SQL Server, JWT, ASP.NET Core Identity, Docker, GitHub Actions, Azure Web App
 
 
 1.  Developed and maintained RESTful APIs using ASP.NET Core, applying **Modular monolith** design to improve maintainability and scalability.
 1.  Implemented authentication and authorization using **JWT and ASP.NET Core Identity** with role-based access control (RBAC).
-1.  Built and maintained **CI/CD** pipelines using GitHub Actions, including automated build, testing, Docker image creation, and deployment to Azure Web App.
+1.  Built and maintained **CI/CD** pipelines using GitHub Actions, including automated build, testing, Docker image creation, and deployment to **Azure Web App**.
 1.  Containerized the application using Docker, ensuring consistent environments across development and production.
 
 ### [Spa Booking & Management System](https://github.com/XiG03/SpaBookingWeb)
