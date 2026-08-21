@@ -26,7 +26,7 @@ Final-year Information Technology student with ~6 months of experience developin
 
 ### Backend Developer Intern
 
-**Salink Vietnam** (Onsite)  *(March 2026 - Present)*
+**Salink Vietnam** (Onsite)  *(March 2026 - July 2026)*
 
 1. Developed and optimized SQL Server stored procedures and functions to improve query performance and support business operations.
 1. Worked with **ADO.NET** to implement data access, execute stored procedures, and handle database transactions in backend systems.
@@ -35,7 +35,7 @@ Final-year Information Technology student with ~6 months of experience developin
 ## Projects
 
 ### [TPS - Learning Management System](https://github.com/XiG03/TPS_FullStack) 
-**Live Demo:** tps-dyh9fbfug0ehdzf9.japanwest-01.azurewebsites.net *(March 2026 – Present)*
+**Live Demo:** tps-dyh9fbfug0ehdzf9.japanwest-01.azurewebsites.net *(April 2026 – July 2026)*
 
 **TechStack:** ASP.NET Core 8 (Web API), ADO.NET, SQL Server, JWT, ASP.NET Core Identity, Docker, GitHub Actions, Azure Web App
 
