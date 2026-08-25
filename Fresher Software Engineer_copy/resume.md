@@ -7,7 +7,7 @@
 
 ## Summary
 
-Final-year Information Technology student with ~6 months of experience developing web applications using ASP.NET Core, SQL Server, and Docker. Seeking a Fresher Software Engineer position to contribute to building scalable, maintainable, and efficient software systems.
+Fresher Backend Developer with ~6 months of hands-on experience developing backend applications using C#, ASP.NET Core, SQL Server, and PostgreSQL. Strong foundation in OOP, RESTful API development, database design, and SQL query optimization. Experienced in authentication, authorization, Docker, and CI/CD. Seeking to contribute to enterprise software development and build expertise in Core Banking systems.
 
 ## Skills
 
@@ -20,7 +20,6 @@ Final-year Information Technology student with ~6 months of experience developin
 - **CI/CD & Automation:** GitLab, GitHub Action.
 - **Monitoring & Testing Tools:** Postman
 - **Methodologies:** Agile/Scrum, CI/CD, API Testing
-- **AI:** Utilized AI tools (Claude, ChatGPT, Antigravity, Gemini) for code support, debugging, and improving development effciency
 
 ## Experiences
 
@@ -29,8 +28,9 @@ Final-year Information Technology student with ~6 months of experience developin
 **Salink Vietnam** (Onsite)  *(March 2026 - July 2026)*
 
 1. Developed and optimized SQL Server stored procedures and functions to improve query performance and support business operations.
-1. Worked with **ADO.NET** to implement data access, execute stored procedures, and handle database transactions in backend systems.
-1. Participated in internship projects involving backend development, database design, and query optimization.
+1. Implemented backend data access using **C# and ADO.NET**, including stored procedure execution and database transaction handling.
+1. Participated in backend development, database design, **SQL query optimization**, and debugging.
+1. Worked with relational databases and backend APIs in a production-oriented development environment.
 
 ## Projects
 
@@ -40,7 +40,7 @@ Final-year Information Technology student with ~6 months of experience developin
 **TechStack:** ASP.NET Core 8 (Web API), ADO.NET, SQL Server, JWT, ASP.NET Core Identity, Docker, GitHub Actions, Azure Web App
 
 
-1.  Developed and maintained RESTful APIs using ASP.NET Core, applying **Modular monolith** design to improve maintainability and scalability.
+1.  Developed RESTful APIs using **C# and ASP.NET Core 8 Web API** following modular and maintainable architecture.
 1.  Implemented authentication and authorization using **JWT and ASP.NET Core Identity** with role-based access control (RBAC).
 1.  Built and maintained **CI/CD** pipelines using GitHub Actions, including automated build, testing, Docker image creation, and deployment to **Azure Web App**.
 1.  Containerized the application using Docker, ensuring consistent environments across development and production.
@@ -71,4 +71,3 @@ Capstone Project: Spa Booking & Management System
 ## Languages
 
 1. **English:** Professional working proficiency
-1. **Japanese:** Beginner
