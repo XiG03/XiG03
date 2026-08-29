@@ -7,8 +7,7 @@
 
 ## Summary
 
-Fresher Backend Developer with ~6 months of hands-on experience developing backend applications using C#, ASP.NET Core, SQL Server, and PostgreSQL. Strong foundation in OOP, RESTful API development, database design, and SQL query optimization. Experienced in authentication, authorization, Docker, and CI/CD. Seeking to contribute to enterprise software development and build expertise in Core Banking systems.
-
+Final-year Information Technology student with hands-on experience in C#/.NET, JavaScript, SQL Server, RESTful APIs, and database development. Strong foundation in programming, database design, and problem-solving, with a strong interest in learning SAP technologies and ABAP. Seeking an SAP Technical Consulting Internship to apply my technical background and develop expertise in enterprise systems.
 ## Skills
 
 - **Programming Languages:** C#, JavaScript, SQL.
