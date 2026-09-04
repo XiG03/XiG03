@@ -11,11 +11,11 @@ Final-year Information Technology student with ~6 months of experience developin
 
 ## Skills
 
-- **Programming Languages:** C#, JavaScript, SQL.
-- **Frameworks:** .NET Framework/Core, ASP.NET Core (MVC, Web API)
-- **Databases:** SQL Server (Advanced Performance Tuning, Indexing, Stored Procedures), PostgreSQL.
+- **Programming Languages:** C#, JavaScript.
+- **Frameworks:** .NET Framework/Core, ASP.NET Core (MVC, Web API), ReactJS
+- **Databases:** SQL Server (Advanced Performance Tuning, Indexing, Stored Procedures), EntityFramework/LINQ, PostgreSQL.
 - **Cloud Platform:** Azure (Deployment & Management)
-- **System & Architecture:** Clean Architecture, System Design
+- **System & Architecture:** Clean Architecture, System Design, Design Pattern
 - **DevOps & Infrastructure:** Docker
 - **CI/CD & Automation:** GitLab, GitHub Action.
 - **Monitoring & Testing Tools:** Postman
@@ -31,6 +31,15 @@ Final-year Information Technology student with ~6 months of experience developin
 1. Developed and optimized SQL Server stored procedures and functions to improve query performance and support business operations.
 1. Worked with **ADO.NET** to implement data access, execute stored procedures, and handle database transactions in backend systems.
 1. Participated in internship projects involving backend development, database design, and query optimization.
+
+### Software Engineer (Freelance)
+
+**Salink Vietnam** (Onsite)  *(Dec 2025 - Present)*
+
+1. Developed and optimized SQL Server stored procedures and functions to improve query performance and support business operations.
+1. Worked with **ADO.NET** to implement data access, execute stored procedures, and handle database transactions in backend systems.
+1. Participated in internship projects involving backend development, database design, and query optimization.
+
 
 ## Projects
 
@@ -62,7 +71,7 @@ Final-year Information Technology student with ~6 months of experience developin
 ## Education
 
 **Bachelor of Science in Information Technology** - University of Economics and Finance – Ho Chi Minh City
-*Sept 2022 - 2026*
+*Sept 2022 - Sept 2026*
 
 GPA: 3.26/4
 
@@ -71,4 +80,4 @@ Capstone Project: Spa Booking & Management System
 ## Languages
 
 1. **English:** Professional working proficiency
-1. **Japanese:** Beginner
+2. **Japanese**
