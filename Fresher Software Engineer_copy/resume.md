@@ -4,7 +4,7 @@
 **Email:** qnhat0312@gmail.com
 **LinkedIn:** [linkedin.com/in/qnhat0312](https://www.linkedin.com/in/quocnhat0312/)
 **GitHub:** [github.com/XiG03](https://github.com/XiG03)
-**Blog:** [XiG-Blog](https://xig-blog.vercel.app/docs/category/article-vie)
+
 
 ## Summary
 
@@ -31,14 +31,6 @@ Final-year Information Technology student with ~6 months of experience developin
 1. Developed and optimized SQL Server stored procedures and functions to improve query performance and support business operations.
 1. Worked with **ADO.NET** to implement data access, execute stored procedures, and handle database transactions in backend systems.
 1. Participated in internship projects involving backend development, database design, and query optimization.
-
-### Software Engineer  *(Dec 2025 - Present)*
-**Ho Chi Minh City/ Quang Ngai** (Freelancer)
-
-1. Developed and optimized SQL Server stored procedures and functions to improve query performance and support business operations.
-1. Worked with **ADO.NET** to implement data access, execute stored procedures, and handle database transactions in backend systems.
-1. Participated in internship projects involving backend development, database design, and query optimization.
-
 
 ## Projects
 
