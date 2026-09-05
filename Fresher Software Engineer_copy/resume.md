@@ -24,7 +24,7 @@ Final-year Information Technology student with ~6 months of experience developin
 
 ## Experiences
 
-### Backend Developer Intern *(March 2026 - July 2026)*
+### Backend Developer Intern *(Jan 2026 - July 2026)*
 
 **Salink Vietnam** (Onsite)  
 
@@ -69,11 +69,11 @@ Final-year Information Technology student with ~6 months of experience developin
 
 ## Education
 
-### University of Economics and Finance – Ho Chi Minh City
-**Bachelor’s Degree in Information Technology**
+**Bachelor’s Degree in Information Technology** 
+University of Economics and Finance – Ho Chi Minh City
 *Graduated: Aug 2026*
 
-GPA: 3.26/4
+GPA: 3.26/4 
 
 Capstone Project: Spa Booking & Management System
 
