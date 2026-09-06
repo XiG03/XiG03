@@ -8,7 +8,7 @@
 
 ## Summary
 
-Final-year Information Technology student with ~6 months of experience developing web applications using ASP.NET Core, SQL Server, and Docker. Seeking a Fresher Software Engineer position to contribute to building scalable, maintainable, and efficient software systems.
+Fresh Graduate in **Information Technology** with hands-on experience in **.NET backend development, SQL Server, Docker, CI/CD, and Azure**. Seeking a Junior/Fresher .NET Developer position to build reliable and maintainable software systems.
 
 ## Skills
 
