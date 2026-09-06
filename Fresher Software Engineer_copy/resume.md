@@ -8,7 +8,7 @@
 
 ## Summary
 
-Fresh Graduate in **Information Technology** with hands-on experience in **.NET backend development, SQL Server, Docker, CI/CD, and Azure**. Seeking a Junior/Fresher .NET Developer position to build reliable and maintainable software systems.
+**Fresh Graduate in Information Technology** with **6 months of hands-on experience in .NET backend development**, including SQL Server, Docker, CI/CD, and Azure. Seeking a **Junior/Fresher .NET Developer** position.
 
 ## Skills
 
@@ -42,7 +42,7 @@ Fresh Graduate in **Information Technology** with hands-on experience in **.NET 
 
 
 1.  Designed and developed **RESTful APIs** using ASP.NET Core 8, applying **Modular Monolith architecture and API Versioning** to improve maintainability and scalability.
-1.  Implemented **authentication and authorization** using JWT and ASP.NET Core Identity with **role-based access control (RBAC)*.
+1.  Implemented **authentication and authorization** using JWT and ASP.NET Core Identity with **role-based access control (RBAC)**.
 1.  Built and maintained **CI/CD pipelines** using GitHub Actions, including automated build, testing, Docker image creation, and deployment to **Azure Web App**.
 1.  Containerized the application using **Docker**, ensuring consistent environments across development and production.
 
