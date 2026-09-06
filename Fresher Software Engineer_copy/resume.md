@@ -13,14 +13,14 @@
 ## Skills
 
 - **Programming Languages:** C#, JavaScript, SQL.
-- **Frameworks & Libraries:** .NET Framework/Core, ASP.NET Core (MVC, Web API), ReactJS
-- **Databases:** SQL Server (Advanced Performance Tuning, Indexing, Stored Procedures), EntityFramework/LINQ, PostgreSQL.
+- **Frameworks & Libraries:** .NET 8, .NET Framework, ASP.NET Core (MVC, Web API), ReactJS, EF Core, LINQ, ADO.NET.
+- **Databases:** SQL Server, PostgreSQL, Stored Procedures, Indexing, Query Optimization.
 - **Cloud Platform:** Azure (Deployment & Management)
-- **System & Architecture:** Clean Architecture, System Design, Design Pattern
-- **DevOps & Infrastructure:** Docker
+- **System & Architecture:** Clean Architecture, Modular Monolith, RESTful API, Design Patterns, API Versioning
+- **Cloud & Devops:** Azure Web App, Docker, GitHub Actions, GitLab CI/CD
 - **CI/CD & Automation:** GitLab, GitHub Action.
-- **Monitoring & Testing Tools:** Postman
-- **Methodologies:** Agile/Scrum, CI/CD, API Testing
+- **Testing & Monitoring:** Unit Testing, API Testing, Postman, Logging, Monitoring
+- **Methodologies:** Agile/Scrum
 
 ## Experiences
 
